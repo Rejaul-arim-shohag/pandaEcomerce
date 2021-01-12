@@ -1,0 +1,27 @@
+
+.custom{
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 8px !important;
+    
+}
+.touch{
+    height: 300px;
+}
+
+.watch-product{
+    background-color: cornflowerblue;
+}
+.bag-product{
+    background-color: #273c75;
+}
+.panda-card{
+    border: 0;
+}
+.card{
+    border: 0;
+    background: red;
+}
+.catagori img{
+    width:100px;
+}
